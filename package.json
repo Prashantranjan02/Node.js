@@ -19,5 +19,9 @@
   "homepage": "https://github.com/Prashantranjan02/Node.js#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.7.0"
   }
 }
